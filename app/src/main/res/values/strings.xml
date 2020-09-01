@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LottieAnimationDemo</string>
+    <string name="txt_ship_animation">Ship</string>
+    <string name="txt_qr_code_1">Qr Code 1</string>
+    <string name="txt_qr_code_2">Qr Code 2</string>
+</resources>
